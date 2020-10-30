@@ -34,14 +34,6 @@ const hashFunction = 'sha256'
 const meta = 'asgardex-keystore'
 ```
 
-## Installation
-
-- Install `@thorchain/asgardex-crypto` from `npm`
-
-```bash
-yarn add @thorchain/asgardex-crypto
-```
-
 ## Usage
 
 ### Basic usage
