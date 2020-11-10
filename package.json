@@ -69,7 +69,7 @@
     "bech32": "^1.1.4",
     "bip39": "^3.0.2",
     "crypto-js": "^4.0.0",
-    "foundry-primitives": "^0.2.1",
+    "foundry-primitives": "https://github.com/xdefi-tech/foundry-primitives.git#e6d708db4dc4c6ae279b9026a73b34332a885480",
     "hdkey": "^2.0.1",
     "uuid": "^8.1.0"
   }
